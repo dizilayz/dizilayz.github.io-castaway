@@ -161,29 +161,29 @@ img{
     bottom: 0px;
     left: 0px;
     content: "";
-    background-image: url("/images/next-underlined.png");
+    background-image: url("/dizilayz.github.io-castaway/images/next-underlined.png");
     width: 100%;
     height: 11px;
 }
 
 .social-item__link--1 {
-    background-image: url("/images/social-1.png");
+    background-image: url("/dizilayz.github.io-castaway/images/social-1.png");
 }
 
 .social-item__link--2 {
-    background-image: url("/images/social-2.png");
+    background-image: url("/dizilayz.github.io-castaway/images/social-2.png");
 }
 
 .social-item__link--3 {
-    background-image: url("/images/social-3.png");
+    background-image: url("/dizilayz.github.io-castaway/images/social-3.png");
 }
 
 .social-item__link--4 {
-    background-image: url("/images/social-4.png");
+    background-image: url("/dizilayz.github.io-castaway/images/social-4.png");
 }
 
 .social-item__link--5 {
-    background-image: url("/images/social-5.png");
+    background-image: url("/dizilayz.github.io-castaway/images/social-5.png");
 }
 
 .social-link {
@@ -324,12 +324,12 @@ img{
 }
 
 .gallery__left {
-    background-image: url('/images/gallery-left.svg');
+    background-image: url('/dizilayz.github.io-castaway//dizilayz.github.io-castaway/gallery-left.svg');
     left: 60px;
 }
 
 .gallery__right {
-    background-image: url('/images/gallery-right.svg');
+    background-image: url('/dizilayz.github.io-castaway/images/gallery-right.svg');
     right: 60px;
 }
 
@@ -525,15 +525,15 @@ img{
 }
 
 .socialnets-link__inst {
-    background-image: url("/images/inst.png");
+    background-image: url("/dizilayz.github.io-castaway/images/inst.png");
 }
 
 .socialnets-link__twit {
-    background-image: url("/images/twit.png");
+    background-image: url("/dizilayz.github.io-castaway/images/twit.png");
 }
 
 .socialnets-link__face {
-    background-image: url("/images/face.png");
+    background-image: url("/dizilayz.github.io-castaway/images/face.png");
 }
 
 .socialnets-link {
